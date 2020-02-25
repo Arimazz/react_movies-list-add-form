@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react_movies-list-add-form/static/css/main.5b5eb71e.chunk.css",
-    "main.js": "/react_movies-list-add-form/static/js/main.5d37ee80.chunk.js",
-    "main.js.map": "/react_movies-list-add-form/static/js/main.5d37ee80.chunk.js.map",
+    "main.js": "/react_movies-list-add-form/static/js/main.bb258134.chunk.js",
+    "main.js.map": "/react_movies-list-add-form/static/js/main.bb258134.chunk.js.map",
     "runtime-main.js": "/react_movies-list-add-form/static/js/runtime-main.ae2b7a9d.js",
     "runtime-main.js.map": "/react_movies-list-add-form/static/js/runtime-main.ae2b7a9d.js.map",
     "static/css/2.70d9d258.chunk.css": "/react_movies-list-add-form/static/css/2.70d9d258.chunk.css",
     "static/js/2.cfb06520.chunk.js": "/react_movies-list-add-form/static/js/2.cfb06520.chunk.js",
     "static/js/2.cfb06520.chunk.js.map": "/react_movies-list-add-form/static/js/2.cfb06520.chunk.js.map",
     "index.html": "/react_movies-list-add-form/index.html",
-    "precache-manifest.19c53e1a65edf60c4b633f38934a78bd.js": "/react_movies-list-add-form/precache-manifest.19c53e1a65edf60c4b633f38934a78bd.js",
+    "precache-manifest.f5dc0134d470fdf5bc22e991bd083bee.js": "/react_movies-list-add-form/precache-manifest.f5dc0134d470fdf5bc22e991bd083bee.js",
     "service-worker.js": "/react_movies-list-add-form/service-worker.js",
     "static/css/2.70d9d258.chunk.css.map": "/react_movies-list-add-form/static/css/2.70d9d258.chunk.css.map",
     "static/css/main.5b5eb71e.chunk.css.map": "/react_movies-list-add-form/static/css/main.5b5eb71e.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.70d9d258.chunk.css",
     "static/js/2.cfb06520.chunk.js",
     "static/css/main.5b5eb71e.chunk.css",
-    "static/js/main.5d37ee80.chunk.js"
+    "static/js/main.bb258134.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7794301b58a33be8a0c19f54e3e3a976",
+    "revision": "6ad223a01e020deab825b8c5b6e901e9",
     "url": "/react_movies-list-add-form/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_movies-list-add-form/static/css/2.70d9d258.chunk.css"
   },
   {
-    "revision": "06fb92374833e186a45a",
+    "revision": "9f664a47df28578ef894",
     "url": "/react_movies-list-add-form/static/css/main.5b5eb71e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_movies-list-add-form/static/js/2.cfb06520.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "06fb92374833e186a45a",
-    "url": "/react_movies-list-add-form/static/js/main.5d37ee80.chunk.js"
+    "revision": "9f664a47df28578ef894",
+    "url": "/react_movies-list-add-form/static/js/main.bb258134.chunk.js"
   },
   {
     "revision": "38a5643bbe04a47a847e",
